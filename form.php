@@ -9,12 +9,14 @@
 
 
 <body>
-
-<form action="process.php" method="post">
+<div>
+  <form action="process.php" method="post">
   Inserisci un testo: <input type="text" name="paragrafo"><br>
   Parola da censurare: <input type="text" name="parola"><br>
   <input type="submit">
 </form>
+</div>
+
     
 </body>
 </html>
