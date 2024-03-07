@@ -18,4 +18,6 @@ $paragrafo_censurato = str_replace($parola, "***", $paragrafo);
 
 echo "Paragrafo censurato: " . $paragrafo_censurato . "<br>";
 echo "Lunghezza: " . strlen($paragrafo_censurato) . "<br>";
+
+
 ?>
